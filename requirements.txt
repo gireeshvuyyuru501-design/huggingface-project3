@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+langchain-text-splitters
+langchain-community
+ipykernel
+openai
+seaborn
+python-dotenv
+langchain-openai
+langchain-core
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+streamlit
+pypdf
+huggingface_hub
+langchain_chains
