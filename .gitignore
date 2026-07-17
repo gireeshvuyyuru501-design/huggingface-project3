@@ -1,7 +1,12 @@
+venv/
+.venv/
+node_modules/
 __pycache__/
 *.pyc
-.venv/
-venv/
+*.pyo
 .env
-.DS_Store
-node_modules/
+.vscode/
+.ipynb_checkpoints/
+dist/
+build/
+*.db
